@@ -305,7 +305,7 @@ select {
     background: url('../images/hamburger-icon.svg') no-repeat center center;
     position: relative;
     display: inline-block;
-    margin-right: -150px;
+    margin-right: -110px;
     background-color: transparent;
 }
 
@@ -564,7 +564,7 @@ select {
   margin-bottom: 20px;
   margin-top: -20px;
   font-weight: 700;
-  text-align: center; 
+  text-align: left; 
 }
 
 .promo .sub-title {
@@ -574,7 +574,7 @@ select {
   margin-top: 0px;;
   font-weight: normal;
   text-transform: none;
-  text-align: center;   
+  text-align: left;   
   color: #fff;
 }
 
@@ -898,7 +898,7 @@ select {
   color: #fff;
   padding-top: 80px;
   padding-bottom: 80px;
-  margin: 50px 40px 50px 40px;    
+
   border: none;
 }
 
@@ -909,11 +909,9 @@ select {
 .cta-section.home-2 {
   background: #fff;
   background-size: cover;
-  min-height: 420px;
   color: #2C2E3E;
-  padding-top: 80px;
-  padding-bottom: 80px;
   border: none;
+  margin-bottom: 80px;
 }
 
 .cta-section.pricing-cta-section {
@@ -929,6 +927,7 @@ select {
   color: #fff;
   margin-top: 40px;
   margin-bottom: 40px;
+    text-align: left;
 }
 
 .cta-section.home-2 .title {
@@ -1163,8 +1162,8 @@ select {
     height: 200px;
     position: relative;
     z-index: 99;
-    margin-top: -100px;
-    padding-bottom: 50px;
+    margin-top: -130px;
+    padding-bottom: 0px;
 }
 
 .stripe-straight {
@@ -2722,10 +2721,6 @@ select {
   .searchbox-submit:hover {
     color: #fff;
   }
-  
-.bottom-bar {
-    display: none;
-  }    
     
   .modal.modal-video .modal-dialog {
     width: auto;
@@ -3160,6 +3155,14 @@ select {
   .features-tabbed .tabs-container {
     max-width: 800px;
   }  
+    
+    .promo .title, .cta-section .title {
+  text-align: center; 
+}
+
+.promo .title, .cta-section .title {
+  text-align: center;   
+}
 }
     
 @media (min-width: 576px) {
@@ -3167,5 +3170,3 @@ select {
     max-width: inherit;
   }
 }
-
-
