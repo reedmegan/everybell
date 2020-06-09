@@ -233,14 +233,14 @@ select {
 }
 
 .header.scrolled .logo {
-    background-image: url(../images/hotelify-dark-logo-type.png);
+    background-image: url(../images/everybell-dark-logo-type.png);
     background-repeat: no-repeat;
     background-size: contain;
     width: 50%;
 }
 
 .header .logo {
-  background-image: url(../images/hotelify-dark-logo-type.png); 
+  background-image: url(../images/everybell-dark-logo-type.png); 
   background-repeat: no-repeat;
     background-size: contain;
       -webkit-transition: none;
@@ -483,7 +483,7 @@ select {
 }
 
 .bg-slider-wrapper .flexslider .slide.slide-1 {
-  background: #253340 url('../images/background/hotelify-home-bg-service.jpg') no-repeat 50% top;
+  background: #253340 url('../images/background/everybell-home-bg-service.jpg') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -539,11 +539,11 @@ select {
 }
 
 .headline-bg.contact-headline-bg {
-  background-image: url('../images/background/hotelify-about-bg-hotel-room.jpg');
+  background-image: url('../images/background/everybell-about-bg-hotel-room.jpg');
 }
 
 .headline-bg.about-headline-bg {
-  background-image: url('../images/background/hotelify-about-bg-hotel-room.jpg');
+  background-image: url('../images/background/everybell-about-bg-hotel-room.jpg');
 }
 
 /* ======= Promo ======= */
@@ -554,7 +554,7 @@ select {
   margin-bottom: 80px;
   min-height: 550px;
   z-index: 10;
-  background-image: url(../images/background/hotelify-home-bg-service.jpg);
+  background-image: url(../images/background/everybell-home-bg-service.jpg);
   background-size: cover;
 }
 
@@ -892,7 +892,7 @@ select {
 
 /* ======= cta-section ======= */
 .cta-section.home-1 {
-  background: url('../images/steps/hotelify-intro-services-concierge.png');
+  background: url('../images/steps/everybell-intro-services-concierge.png');
   background-size: 500px;
   background-repeat: no-repeat;
   color: #fff;
@@ -1572,7 +1572,7 @@ select {
   padding-top: 90px;
   position: relative;
   z-index: 10;
-  background: white url(../images/background/hotelify-about-bg-hotel-room.jpg);
+  background: white url(../images/background/everybell-about-bg-hotel-room.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   max-height: 100%;
@@ -1955,7 +1955,7 @@ select {
 }
 /* ======= Login Page ======= */
 .has-full-screen-bg .upper-wrapper {
-  background: url('../images/background/hotelify-login-bg-hotel-checkin.jpg');
+  background: url('../images/background/everybell-login-bg-hotel-checkin.jpg');
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -1968,7 +1968,7 @@ select {
 }
 
 .has-full-screen-bg.signup-page .upper-wrapper {
-  background: url('../images/background/hotelify-signup-bg-hotel-room.jpg') no-repeat 50% top;
+  background: url('../images/background/everybell-signup-bg-hotel-room.jpg') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -2474,7 +2474,7 @@ select {
   }
     
 .header .logo {
-  background-image: url(../images/hotelify-dark-logo-type.png); 
+  background-image: url(../images/everybell-dark-logo-type.png); 
   background-repeat: no-repeat;
     background-size: contain;
       -webkit-transition: none;
@@ -2510,11 +2510,11 @@ select {
   }
     
   .has-full-screen-bg.login-page.access-page .upper-wrapper {
-    background: url(../images/background/hotelify-login-bg-hotel-checkin.jpg);
+    background: url(../images/background/everybell-login-bg-hotel-checkin.jpg);
   }
     
   .has-full-screen-bg.signup-page.access-page .upper-wrapper {
-    background: url(../images/background/hotelify-signup-bg-hotel-room.jpg);
+    background: url(../images/background/everybell-signup-bg-hotel-room.jpg);
   }   
     
   .upper-wrapper img {
@@ -2942,7 +2942,7 @@ select {
   }  
     
   .header.scrolled .logo {
-    background-image: url(../images/hotelify-dark-logo-type.png);
+    background-image: url(../images/everybell-dark-logo-type.png);
     height: 30px;
     top: 28px;
     left: 20px;
@@ -2950,7 +2950,7 @@ select {
   }
     
 .header .logo {
-    background-image: url(../images/hotelify-logo-type.png);
+    background-image: url(../images/everybell-logo-type.png);
     background-size: contain;
     height: 30px;
     margin-top: 25px;
